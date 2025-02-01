@@ -8,6 +8,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 - HP is calculated as PHY + SPR + Level
 - AC is simplified and serves as damage reduction
 - Attack bonus/THAC0 and Saving Throw progression is consolidated to a single Combat Bonus (CB)
+
 **Mechanics**
 - A d6 dice pool system is used for rolls, where a 6 on any dice is a success
 - Attack dice pools are PHY + CB. Each success is 1 damage
