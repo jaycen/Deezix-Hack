@@ -116,7 +116,7 @@ Alternatively, use this table:
 | --------------- | ------------------- |
 | 6 [13] or worse | Unarmored (0)       |
 | 5-3 [14-16]     | Lightly Armored (1) |
-| 2-0 17+         | Heavily Armored (2) |
+| 2-0 [17+]       | Heavily Armored (2) |
 
 ---
 # Example Combat
