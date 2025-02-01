@@ -102,7 +102,7 @@ Any normal sized character may carry/wear the following items without becoming e
 - 6 items (Items purchased in units such as torches (6), or arrows (20) count as 1 item)
 - 1000 gp (or treasure of equivalent weight)
 
-**Exceeding encumbrance limits**: Characters moves at half their normal speed lose their Combat Bonus.
+**Exceeding encumbrance limits**: Movement is at halved. Combat Bonus is reduced to 0.
 # Monsters
 Statistics for monsters are primarily handled by referencing their hit dice.
 **HP:** Equal to their HD
