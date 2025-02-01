@@ -95,12 +95,14 @@ Saving throws are made by making a SPR + CB roll. If a 6 is rolled, the saving t
 ## Damage and Healing from Spells and Other Effects
 Damage and healing from spells is converted from their original format as 1 damage per damage dice stated on the spell (ex. a spell dealing 3d6 would deal 3 damage). This method is used for potions, traps, monster abilities, etc.
 ## Encumbrance
-Any normal sized character may carry/wear the following items without becoming encumbered:
+Any normal sized character may carry/wear the following items:
 - Armor
 - 2 melee weapons
 - 1 ranged weapon
-- 6 items (Items purchased in units such as torches (6), or arrows (20) count as 1 item)
+- 6 items
 - 1000 gp (or treasure of equivalent weight)
+
+Items purchased in units such as torches (6), or arrows (20) count as 1 item
 
 **Exceeding encumbrance limits**: Movement is at halved. Combat Bonus is reduced to 0.
 # Monsters
