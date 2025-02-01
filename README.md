@@ -125,8 +125,8 @@ Galadan (Fighter 4): **HP** 8, **AC** 2,  **STR** 3, **MEN** 1, **SPR** 2
 
 Ghoul: **HD** 2*, **AC** 0,  **ATT** 2 x claw (paralysis)
 
-Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB for 4th level fighters)  resulting in 1, 3, 5, 5, 6. The single 6 represents a success and the Ghoul takes 1 point of damage (now at 1 total).
+Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB)  resulting in 1, 3, 5, 5, 6. The single 6 represents a success and the Ghoul takes 1 point of damage (now at 1 total).
 
 The Ghoul attacks back, rolling 2d6 (2 HD), The results are 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for it's second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage, bringing Galadan to 7 total HP.
 
-Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB for 4th level fighters) resulting in no 6s, failing the saving throw and becoming paralyzed.
+Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB) resulting in no 6s, failing the saving throw and becoming paralyzed.
