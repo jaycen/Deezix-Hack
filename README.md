@@ -15,7 +15,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 - Damage and healing from spells and other effects are reduced (a 5d6 fireball is now 5 damage)
 - Saving throw dice pools are SPR + CB
 - Encumbrance is slot based
-- Monsters most stats from their HD. Multiple attacks are made by re-rolling non-6s.
+- Monsters stats are mostly derrived from their HD. Multiple attacks are made by re-rolling non-6s.
 
 ---
 # Game Statistics
