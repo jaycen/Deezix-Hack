@@ -124,7 +124,7 @@ Alternatively, use this table:
 **HP** 8, **AC** 2,  **STR** 3, **MEN** 1, **SPR** 2
 
 **Ghoul**
-**HD** 2*, **AC** 0,  **ATT** 2xclaw (paralysis)
+**HD** 2*, **AC** 0,  **ATT** 2 x claw (paralysis)
 
 Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB for 4th level fighters)  resulting in 1, 3, 5, 5, 6. The single 6 represents a success and the Ghoul takes 1 point of damage (now at 1 total).
 
