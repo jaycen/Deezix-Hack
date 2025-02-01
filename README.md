@@ -1,7 +1,7 @@
 # Deezix Hack
 This hack is a series of replacement rules for old-school style fantasy rpg games aimed at making it easier for small player groups to manage the large parties of PCs and henchmen often assumed in old-school style adventure modules. These rules consolidate many PC and Monster statistics into a handful of quick-reference stats that directly correlate with their mechanical function and implements a universal dice pool mechanic for all combat rolls.
 
-This hack assumes you are using B/X or a B/X-compatible role-playing game (such as Old School Essentials) as your chassis, with the rules in this hack overriding certain key aspects.
+This hack assumes you are using B/X or a B/X-compatible role-playing game (such as Old School Essentials) as your chassis, with these rules overriding certain aspects.
 ## Summary of Changes
 **Game Statistics**
 - Traditional 6 ability scores are consolidated to 3 (PHY, MEN, SPR) ranging 1 - 3
@@ -15,7 +15,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 - Damage and healing from spells and other effects are reduced (a 5d6 fireball is now 5 damage)
 - Saving throw dice pools are SPR + CB
 - Encumbrance is slot based
-- Monster get all their stats from their HD. Multiple attacks are made by re-rolling non-6s.
+- Monsters most stats from their HD. Multiple attacks are made by re-rolling non-6s.
 
 ---
 # Game Statistics
