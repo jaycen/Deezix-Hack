@@ -30,6 +30,7 @@ PC and NPCs have 3 primary ability scores. ***Physical*** (PHY), ***Mental*** (M
 | 4   | PHY 2, MEN 1, SPR 3  |
 | 5   | PHY 1, MEN 3, SPR 2  |
 | 6   | PHY 1, MEN 2, SPR 3  |
+
 **Calling it:** At character creation, a player may "call it" by predicting the outcome of their ability score roll. If they are correct, they may opt to set all ability scores to 2.
 ## Hit Points (HP)
 PC and hireling hit points equal PHY + SPR + Level
