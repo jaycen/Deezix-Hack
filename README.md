@@ -92,7 +92,7 @@ Multiple 6s on a single roll may have additional effects.
 Attacks are resolved by making a PHY + CB roll. For every 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC).
 ## Saving Throws
 Saving throws are made by making a SPR + CB roll. If a 6 is rolled, the saving throw is successful.
-## Damage and Healing from Spells and other Effects
+## Damage and Healing from Spells and Other Effects
 Damage and healing from spells is converted from their original format as 1 damage per damage dice stated on the spell (ex. a spell dealing 3d6 would deal 3 damage). This method is used for potions, traps, monster abilities, etc.
 ## Encumbrance
 Any normal sized character may carry/wear the following items without becoming encumbered:
