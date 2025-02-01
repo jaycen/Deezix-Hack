@@ -46,21 +46,21 @@ Armor reduces incoming damage by the armor class value it grants to a minimum of
 ## Combat Bonus (CB)
 PCs and NPCs have a combat bonus based on their class and level. This bonus is applied to attacks and saving throws. 
 
-| Level | Cleric | Fighter | Magic-User | Thief |
+| **Level** | **Cleric** | **Fighter** | **Magic-User** | **Thief** |
 | ----- | ------ | ------- | ---------- | ----- |
-| 1     | 1      | 1       | 1          | 1     |
-| 2     | 1      | 1       | 1          | 1     |
-| 3     | 1      | 1       | 1          | 1     |
-| 4     | 1      | 2       | 1          | 1     |
-| 5     | 2      | 2       | 1          | 2     |
-| 6     | 2      | 2       | 2          | 2     |
-| 7     | 2      | 3       | 2          | 2     |
-| 8     | 2      | 3       | 2          | 2     |
-| 9     | 3      | 3       | 2          | 3     |
-| 10    | 3      | 4       | 2          | 3     |
-| 11    | 3      | 4       | 3          | 3     |
-| 12    | 3      | 4       | 3          | 3     |
-| 13    | 4      | 5       | 3          | 4     |
+| **1**     | 1      | 1       | 1          | 1     |
+| **2**     | 1      | 1       | 1          | 1     |
+| **3**     | 1      | 1       | 1          | 1     |
+| **4**     | 1      | 2       | 1          | 1     |
+| **5**     | 2      | 2       | 1          | 2     |
+| **6**     | 2      | 2       | 2          | 2     |
+| **7**     | 2      | 3       | 2          | 2     |
+| **8**     | 2      | 3       | 2          | 2     |
+| **9**     | 3      | 3       | 2          | 3     |
+| **10**    | 3      | 4       | 2          | 3     |
+| **11**    | 3      | 4       | 3          | 3     |
+| **12**    | 3      | 4       | 3          | 3     |
+| **13**    | 4      | 5       | 3          | 4     |
 
 # Adventuring
 ## Ability Rolls
