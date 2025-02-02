@@ -36,7 +36,7 @@ PC and NPCs have 3 primary ability scores. ***Physical*** (PHY), ***Mental*** (M
 ## Hit Points (HP)
 PC and hireling hit points equal PHY + SPR + Level
 ## Armor Class (AC)
-Armor reduces incoming damage by the armor class value it grants to a minimum of 1.
+Armor reduces incoming damage by the armor class value. Armor cannot reduce damage to 0.
 
 | Armor Worn      | Armor Class |
 | --------------- | ----------- |
@@ -68,7 +68,7 @@ Ability rolls are used to determine certain outcomes influenced by a character's
 
 Multiple 6s on a single roll may have additional effects.
 ## Attack Rolls
-Attacks are resolved by making a PHY + CB roll. For every 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC).
+Attacks are resolved by making a PHY + CB roll. For every 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC to a minimum of 1).
 ## Saving Throws
 Saving throws are made by making a SPR + CB roll. If a 6 is rolled, the saving throw is successful.
 ## Damage and Healing from Spells and Other Effects
@@ -86,10 +86,15 @@ Items purchased in units such as torches (6), or arrows (20) count as 1 item
 **Exceeding encumbrance limits**: Movement is at halved. Combat Bonus is reduced to 0.
 # Monsters
 Statistics for monsters are primarily handled by referencing their hit dice.
+
 **HP:** Equal to their HD
+
 **Saving Throws:** Equal to their HD
+
 **Attack Rolls**: Equal to their HD
+
 **Multiple Attacks**: Creatures with multiple attacks do not make additional attack rolls. Instead, they are able to re-roll any non-6s for each additional attack listed on their original stat block.
+
 **Armor Class**: Armor class should be converted based on the referee's judgement of which of the three categories their worn or natural armor falls (unarmored, lightly armored, heavily armored).
 
 Alternatively, use this table:
@@ -109,6 +114,6 @@ Ghoul: **HD** 2*, **AC** 0,  **ATT** 2 x claw (paralysis)
 
 Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB) resulting in 1, 3, 5, 5, 6. The single 6 represents a success and the Ghoul takes 1 point of damage (now at 1 total).
 
-The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for it's second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage, bringing Galadan to 7 total HP.
+The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage, bringing Galadan to 7 total HP.
 
 Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB) resulting in no 6s. He fails the saving throw and becomes paralyzed.
