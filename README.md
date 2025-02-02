@@ -5,7 +5,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 ## Summary of Changes
 **Game Statistics**
 - Traditional 6 ability scores are consolidated to 3 (PHY, MEN, SPR) ranging 1 - 3
-- HP is calculated as PHY + SPR + Level
+- HP is reduced overall. PCs have SPR + Level HP. Monsters have HP equal to their HD.
 - AC is simplified and serves as damage reduction
 - Attack bonus/THAC0 and Saving Throw progression is consolidated to a single Combat Bonus (CB)
 
@@ -34,7 +34,7 @@ PC and NPCs have 3 primary ability scores. ***Physical*** (PHY), ***Mental*** (M
 
 **Calling it:** At character creation, a player may "call it" by predicting the outcome of their ability score roll. If they are correct, they may opt to set all ability scores to 2.
 ## Hit Points (HP)
-PC and hireling hit points equal PHY + SPR + Level
+PC and hireling hit points equal SPR + Level.
 ## Armor Class (AC)
 Armor reduces incoming damage by the armor class value. Armor cannot reduce damage to 0.
 
