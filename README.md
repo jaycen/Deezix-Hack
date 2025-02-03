@@ -15,7 +15,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 - Damage and healing from spells and other effects are converted to 1 per die (a 5d6 fireball is now 5 damage)
 - Saving throw dice pools are SPR + CB
 - Encumbrance is slot based
-- Monsters stats are mostly derrived from their HD. Multiple attacks are made by re-rolling non-6s.
+- Monsters stats are mostly derived from their HD. Multiple attacks are made by re-rolling non-6s.
 
 ---
 # Game Statistics
@@ -117,3 +117,10 @@ Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 1 CB) result
 The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage.
 
 Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB) resulting in no 6s. He fails the saving throw and becomes paralyzed.
+
+---
+# Balance Notes
+To maintain compatibility with old-school and OSR adventure modules, these rules aim to generate roughly similar outcomes in combat that would occur using B/X or similar rules. However, some balance considerations should be acnkowledged due to the differences in game mechanics.
+- PCs are tougher at early levels due to their relatively-higher HP compared to monsters of equivilant HD.
+- Armor is strong! Especially as higher HD monsters with multiple attacks are encountered.
+- Damage in general is constrained more tightly than in B/X due to the effectiveness of armor and the re-roll mechanic for multiple attackes. This makes combat outcomes more deterministic. Players should keep this in mind when deciding whether or not to charge into battle.
