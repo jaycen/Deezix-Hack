@@ -47,20 +47,20 @@ Armor reduces incoming damage by the armor class value. Armor cannot reduce dama
 PCs and NPCs have a combat bonus based on their class and level. This bonus is applied to attacks and saving throws. 
 
 | **Level** | **Cleric** | **Fighter** | **Magic-User** | **Thief** |
-| ----- | ------ | ------- | ---------- | ----- |
-| **1**     | 1      | 1       | 1          | 1     |
-| **2**     | 1      | 1       | 1          | 1     |
-| **3**     | 1      | 1       | 1          | 1     |
-| **4**     | 1      | 2       | 1          | 1     |
-| **5**     | 2      | 2       | 1          | 2     |
-| **6**     | 2      | 2       | 2          | 2     |
-| **7**     | 2      | 3       | 2          | 2     |
-| **8**     | 2      | 3       | 2          | 2     |
-| **9**     | 3      | 3       | 2          | 3     |
-| **10**    | 3      | 4       | 2          | 3     |
-| **11**    | 3      | 4       | 3          | 3     |
-| **12**    | 3      | 4       | 3          | 3     |
-| **13**    | 4      | 5       | 3          | 4     |
+| --------- | ---------- | ----------- | -------------- | --------- |
+| **1**     | 0          | 0           | 0              | 0         |
+| **2**     | 0          | 0           | 0              | 0         |
+| **3**     | 0          | 0           | 0              | 0         |
+| **4**     | 0          | 1           | 0              | 0         |
+| **5**     | 1          | 1           | 0              | 1         |
+| **6**     | 1          | 1           | 1              | 1         |
+| **7**     | 1          | 2           | 1              | 1         |
+| **8**     | 1          | 2           | 1              | 1         |
+| **9**     | 2          | 2           | 1              | 2         |
+| **10**    | 2          | 3           | 1              | 2         |
+| **11**    | 2          | 3           | 2              | 2         |
+| **12**    | 2          | 3           | 2              | 2         |
+| **13**    | 3          | 4           | 2              | 3         |
 
 # Adventuring
 ## Ability Rolls
@@ -112,7 +112,7 @@ Galadan (Fighter 4): **HP** 6, **AC** 2,  **PHY** 3, **MEN** 1, **SPR** 2
 
 Ghoul: **HD** 2*, **AC** 0,  **ATT** 2 x claw (paralysis)
 
-Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB) resulting in 1, 2, 3, 4, 6. The 6 represents a successes and the Ghoul takes 1 point of damage.
+Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 1 CB) resulting in 1, 2, 4, 6. The 6 represents a successes and the Ghoul takes 1 point of damage.
 
 The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage.
 
