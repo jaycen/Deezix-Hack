@@ -75,10 +75,11 @@ Saving throws are contested.
 The subject of a saving throw rolls SPR + CB counting the number of successes (5 or 6).
 
 The source of the saving throw rolls a number of dice according to the table below, counting the successes (5 or 6).
-| **Source** | **Roll** |
-| PC/NPC | MEN + CB |
-| Monster | HD |
-| Trap/Hazard | 1d6 |
+| Saving Throw Source | # d6s    |
+| ------------------- | -------- |
+| PC/NPC              | MEN + CB |
+| Monster             | HD       |
+| Trap/Hazard         | 1        |
 
 Opposing successes negate one another. If the subject is left with any successes, their saving throw is successful.
 
