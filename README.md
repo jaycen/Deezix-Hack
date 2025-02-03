@@ -6,13 +6,13 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 **Game Statistics**
 - Traditional 6 ability scores are consolidated to 3 (PHY, MEN, SPR) ranging 1 - 3
 - HP is reduced overall. PCs have SPR + Level HP. Monsters have HP equal to their HD.
-- AC is simplified and serves as damage reduction
+- AC is ranges from 0 - 2 and serves as damage reduction
 - Attack bonus/THAC0 and Saving Throw progression is consolidated to a single Combat Bonus (CB)
 
 **Mechanics**
-- A d6 dice pool system is used for rolls, where a 6 on any dice is a success
+- A d6 dice pool system is used for rolls, where a 5 or 6 on any die is a success.
 - Attack dice pools are PHY + CB. Each success is 1 damage
-- Damage and healing from spells and other effects are reduced (a 5d6 fireball is now 5 damage)
+- Damage and healing from spells and other effects are converted to 1 per die (a 5d6 fireball is now 5 damage)
 - Saving throw dice pools are SPR + CB
 - Encumbrance is slot based
 - Monsters stats are mostly derrived from their HD. Multiple attacks are made by re-rolling non-6s.
@@ -64,13 +64,13 @@ PCs and NPCs have a combat bonus based on their class and level. This bonus is a
 
 # Adventuring
 ## Ability Rolls
-Ability rolls are used to determine certain outcomes influenced by a character's abilities. To make an ability roll, roll a number of dice equal to the relevant ability score. **If a 6 is rolled on any dice, it is a success.**
+Ability rolls are used to determine certain outcomes influenced by a character's abilities. To make an ability roll, roll a number of dice equal to the relevant ability score. **If a 5 or 6 is rolled on any dice, it is a success.**
 
-Multiple 6s on a single roll may have additional effects.
+Multiple successes on a single roll may have additional effects.
 ## Attack Rolls
-Attacks are resolved by making a PHY + CB roll. For every 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC to a minimum of 1).
+Attacks are resolved by making a PHY + CB roll. For every 5 or 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC to a minimum of 1).
 ## Saving Throws
-Saving throws are made by making a SPR + CB roll. If a 6 is rolled, the saving throw is successful.
+Saving throws are made by making a SPR + CB roll. If a 5 or 6 is rolled, the saving throw is successful.
 ## Damage and Healing from Spells and Other Effects
 Damage and healing from spells is converted from their original format as 1 damage per damage dice stated on the spell (ex. a spell dealing 3d6 would deal 3 damage). This method is used for potions, traps, monster abilities, etc.
 ## Encumbrance
@@ -93,7 +93,7 @@ Statistics for monsters are primarily handled by referencing their hit dice.
 
 **Attack Rolls**: Equal to their HD
 
-**Multiple Attacks**: Creatures with multiple attacks do not make additional attack rolls. Instead, they are able to re-roll any non-6s for each additional attack listed on their original stat block.
+**Multiple Attacks**: Creatures with multiple attacks do not make additional attack rolls. Instead, they are able to re-roll any failures for each additional attack listed on their original stat block.
 
 **Armor Class**: Armor class should be converted based on the referee's judgement of which of the three categories their worn or natural armor falls (unarmored, lightly armored, heavily armored).
 
@@ -108,12 +108,12 @@ Alternatively, use this table:
 ---
 # Example Combat
 
-Galadan (Fighter 4): **HP** 8, **AC** 2,  **STR** 3, **MEN** 1, **SPR** 2
+Galadan (Fighter 4): **HP** 6, **AC** 2,  **PHY** 3, **MEN** 1, **SPR** 2
 
 Ghoul: **HD** 2*, **AC** 0,  **ATT** 2 x claw (paralysis)
 
-Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB) resulting in 1, 3, 5, 5, 6. The single 6 represents a success and the Ghoul takes 1 point of damage (now at 1 total).
+Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 2 CB) resulting in 1, 2, 3, 4, 6. The 6 represents a successes and the Ghoul takes 1 point of damage.
 
-The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage, bringing Galadan to 7 total HP.
+The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage.
 
 Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB) resulting in no 6s. He fails the saving throw and becomes paralyzed.
