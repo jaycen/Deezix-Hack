@@ -6,7 +6,7 @@ This hack assumes you are using B/X or a B/X-compatible role-playing game (such 
 **Game Statistics**
 - Traditional 6 ability scores are consolidated to 3 (PHY, MEN, SPR) ranging 1 - 3
 - HP is reduced overall. PCs have SPR + Level HP. Monsters have HP equal to their HD.
-- AC is ranges from 0 - 2 and serves as damage reduction
+- AC ranges from 0 - 2 and serves as damage reduction
 - Attack bonus/THAC0 and Saving Throw progression is consolidated to a single Combat Bonus (CB)
 
 **Mechanics**
