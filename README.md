@@ -1,5 +1,5 @@
 # Deezix Hack
-This hack is a series of replacement rules for old-school style fantasy rpg games aimed at making it easier for small player groups to manage the large parties of PCs and henchmen often assumed in old-school style adventure modules. These rules consolidate many PC and Monster statistics into a handful of quick-reference stats that directly correlate with their mechanical function and implements a universal dice pool mechanic for all combat rolls.
+This hack is a series of replacement rules for old-school style fantasy rpg games aimed at making it easier for small player groups to manage the large parties of PCs and henchmen often assumed in old-school style adventure modules. These rules consolidate many PC and Monster statistics into a handful of quick-reference stats that directly correlate with their mechanical function, and implements a universal dice pool mechanic for all combat rolls.
 
 This hack assumes you are using B/X or a B/X-compatible role-playing game (such as Old School Essentials) as your chassis, with these rules overriding certain aspects.
 ## Summary of Changes
