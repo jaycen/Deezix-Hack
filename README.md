@@ -68,9 +68,20 @@ Ability rolls are used to determine certain outcomes influenced by a character's
 
 Multiple successes on a single roll may have additional effects.
 ## Attack Rolls
-Attacks are resolved by making a PHY + CB roll. For every 5 or 6 rolled, 1 damage is dealt to the target's HP (reduced by their AC to a minimum of 1).
+Attacks are resolved by making a PHY + CB roll. For every success rolled (5 or 6), 1 damage is dealt to the target's HP (reduced by their AC to a minimum of 1).
 ## Saving Throws
-Saving throws are made by making a SPR + CB roll. If a 5 or 6 is rolled, the saving throw is successful.
+Saving throws are contested.
+
+The subject of a saving throw rolls SPR + CB counting the number of successes (5 or 6).
+
+The source of the saving throw rolls a number of dice according to the table below, counting the successes (5 or 6).
+| **Source** | **Roll** |
+| PC/NPC | MEN + CB |
+| Monster | HD |
+| Trap/Hazard | 1d6 |
+
+Opposing successes negate one another. If the subject is left with any successes, their saving throw is successful.
+
 ## Damage and Healing from Spells and Other Effects
 Damage and healing from spells is converted from their original format as 1 damage per damage dice stated on the spell (ex. a spell dealing 3d6 would deal 3 damage). This method is used for potions, traps, monster abilities, etc.
 ## Encumbrance
@@ -116,7 +127,7 @@ Galadan wins initiative and attacks the ghoul, rolling 5d6 (3 STR + 1 CB) result
 
 The Ghoul attacks back, rolling 2d6 (2 HD) resulting in 4, 3. The Ghoul has 2 claw attacks, so it re-rolls all non-6s for its second attack. The results are now 1, 6. The damage is reduced by Galadan's AC (2) to a minimum of 1 damage.
 
-Galadan must make a saving throw against the Ghoul paralysis, rolling 4d6 (2 SPR + 2 SB) resulting in no 6s. He fails the saving throw and becomes paralyzed.
+Galadan must make a saving throw against the Ghoul paralysis, rolling 3d6 (2 SPR + 1 CB) against the Ghoul's 2d6 (2HD). Both Galadan and the Ghoul roll 1 success which negate each other, thus Galadan fails the save and becomes paralyzed.
 
 ---
 # Balance Notes
